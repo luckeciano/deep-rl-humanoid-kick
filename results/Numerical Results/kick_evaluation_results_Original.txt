@@ -1,0 +1,21 @@
+General X
+   Mean: 6.27857
+   Std: 5.03432
+Effective
+   Mean: 9.05456
+   Std: 3.44269
+Accuracy: 0.69
+General Y
+   Mean: 0.750514
+   Std: 0.72016
+Effective
+   Mean: 1.09331
+   Std: 0.608633
+Accuracy: 0.69
+General Max Z
+   Mean: 0.162279
+   Std: 0.415348
+Effective
+   Mean: 0.216562
+   Std: 0.490398
+Accuracy: 0.69

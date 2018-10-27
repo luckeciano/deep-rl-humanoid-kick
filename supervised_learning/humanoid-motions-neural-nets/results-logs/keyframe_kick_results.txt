@@ -1,0 +1,4369 @@
+Keyframe Kick Logs: 
+Number of Kick Attempts: Total number of kick episodes
+Number of Successful Kicks: Total number of successful kick. A successful kick
+has kick distance greater than 0.2
+Sum of Total Distance: Sum of distance traveled by the ball in kick episodes
+Previous Kick Distance: The distance traveled by the previous kick
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 1
+Number of Successful Kicks: 0
+Sum of Total Distance: 0.0417605
+Previous Kick Distance: 0.0417605
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 2
+Number of Successful Kicks: 0
+Sum of Total Distance: 0.527048
+Previous Kick Distance: 0.485287
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 3
+Number of Successful Kicks: 0
+Sum of Total Distance: 0.740452
+Previous Kick Distance: 0.213404
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 4
+Number of Successful Kicks: 0
+Sum of Total Distance: 0.947012
+Previous Kick Distance: 0.20656
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 5
+Number of Successful Kicks: 0
+Sum of Total Distance: 0.947012
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 6
+Number of Successful Kicks: 1
+Sum of Total Distance: 9.71327
+Previous Kick Distance: 8.76625
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 7
+Number of Successful Kicks: 2
+Sum of Total Distance: 18.4931
+Previous Kick Distance: 8.77984
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 8
+Number of Successful Kicks: 2
+Sum of Total Distance: 18.4931
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 9
+Number of Successful Kicks: 2
+Sum of Total Distance: 18.7658
+Previous Kick Distance: 0.272724
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 10
+Number of Successful Kicks: 3
+Sum of Total Distance: 32.4142
+Previous Kick Distance: 13.6484
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 11
+Number of Successful Kicks: 3
+Sum of Total Distance: 32.4142
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 12
+Number of Successful Kicks: 3
+Sum of Total Distance: 32.4142
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 13
+Number of Successful Kicks: 4
+Sum of Total Distance: 45.7924
+Previous Kick Distance: 13.3782
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 14
+Number of Successful Kicks: 5
+Sum of Total Distance: 54.7954
+Previous Kick Distance: 9.00306
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 15
+Number of Successful Kicks: 6
+Sum of Total Distance: 63.7985
+Previous Kick Distance: 9.00306
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 16
+Number of Successful Kicks: 7
+Sum of Total Distance: 76.0774
+Previous Kick Distance: 12.2789
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 17
+Number of Successful Kicks: 8
+Sum of Total Distance: 88.3564
+Previous Kick Distance: 12.2789
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 18
+Number of Successful Kicks: 9
+Sum of Total Distance: 98.6302
+Previous Kick Distance: 10.2738
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 19
+Number of Successful Kicks: 10
+Sum of Total Distance: 108.904
+Previous Kick Distance: 10.2738
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 20
+Number of Successful Kicks: 11
+Sum of Total Distance: 117.622
+Previous Kick Distance: 8.71771
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 21
+Number of Successful Kicks: 12
+Sum of Total Distance: 126.337
+Previous Kick Distance: 8.71474
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 22
+Number of Successful Kicks: 13
+Sum of Total Distance: 128.615
+Previous Kick Distance: 2.27886
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 23
+Number of Successful Kicks: 13
+Sum of Total Distance: 128.968
+Previous Kick Distance: 0.352383
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 24
+Number of Successful Kicks: 13
+Sum of Total Distance: 129.028
+Previous Kick Distance: 0.0599958
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 25
+Number of Successful Kicks: 13
+Sum of Total Distance: 129.028
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 26
+Number of Successful Kicks: 14
+Sum of Total Distance: 139.186
+Previous Kick Distance: 10.1582
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 27
+Number of Successful Kicks: 15
+Sum of Total Distance: 151.404
+Previous Kick Distance: 12.2181
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 28
+Number of Successful Kicks: 15
+Sum of Total Distance: 151.855
+Previous Kick Distance: 0.451192
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 29
+Number of Successful Kicks: 16
+Sum of Total Distance: 162.314
+Previous Kick Distance: 10.4589
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 30
+Number of Successful Kicks: 16
+Sum of Total Distance: 162.314
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 31
+Number of Successful Kicks: 17
+Sum of Total Distance: 172.574
+Previous Kick Distance: 10.2603
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 32
+Number of Successful Kicks: 18
+Sum of Total Distance: 182.876
+Previous Kick Distance: 10.3012
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 33
+Number of Successful Kicks: 19
+Sum of Total Distance: 193.177
+Previous Kick Distance: 10.3012
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 34
+Number of Successful Kicks: 20
+Sum of Total Distance: 203.997
+Previous Kick Distance: 10.8204
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 35
+Number of Successful Kicks: 21
+Sum of Total Distance: 214.818
+Previous Kick Distance: 10.8204
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 36
+Number of Successful Kicks: 22
+Sum of Total Distance: 225.072
+Previous Kick Distance: 10.2548
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 37
+Number of Successful Kicks: 23
+Sum of Total Distance: 235.327
+Previous Kick Distance: 10.2548
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 38
+Number of Successful Kicks: 23
+Sum of Total Distance: 235.715
+Previous Kick Distance: 0.388292
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 39
+Number of Successful Kicks: 24
+Sum of Total Distance: 244.442
+Previous Kick Distance: 8.72637
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 40
+Number of Successful Kicks: 25
+Sum of Total Distance: 252.919
+Previous Kick Distance: 8.47699
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 41
+Number of Successful Kicks: 25
+Sum of Total Distance: 253.204
+Previous Kick Distance: 0.285006
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 42
+Number of Successful Kicks: 25
+Sum of Total Distance: 254.991
+Previous Kick Distance: 1.78742
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 43
+Number of Successful Kicks: 26
+Sum of Total Distance: 257.069
+Previous Kick Distance: 2.07733
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 44
+Number of Successful Kicks: 27
+Sum of Total Distance: 265.633
+Previous Kick Distance: 8.56434
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 45
+Number of Successful Kicks: 28
+Sum of Total Distance: 278.108
+Previous Kick Distance: 12.4746
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 46
+Number of Successful Kicks: 28
+Sum of Total Distance: 279.735
+Previous Kick Distance: 1.62798
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 47
+Number of Successful Kicks: 29
+Sum of Total Distance: 291.831
+Previous Kick Distance: 12.0954
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 48
+Number of Successful Kicks: 30
+Sum of Total Distance: 305.54
+Previous Kick Distance: 13.7092
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 49
+Number of Successful Kicks: 31
+Sum of Total Distance: 318.801
+Previous Kick Distance: 13.2608
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 50
+Number of Successful Kicks: 32
+Sum of Total Distance: 332.062
+Previous Kick Distance: 13.2608
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 51
+Number of Successful Kicks: 33
+Sum of Total Distance: 341.815
+Previous Kick Distance: 9.7529
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 52
+Number of Successful Kicks: 34
+Sum of Total Distance: 351.568
+Previous Kick Distance: 9.7529
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 53
+Number of Successful Kicks: 34
+Sum of Total Distance: 351.883
+Previous Kick Distance: 0.315464
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 54
+Number of Successful Kicks: 35
+Sum of Total Distance: 363.064
+Previous Kick Distance: 11.1811
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 55
+Number of Successful Kicks: 36
+Sum of Total Distance: 374.423
+Previous Kick Distance: 11.3585
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 56
+Number of Successful Kicks: 37
+Sum of Total Distance: 386.155
+Previous Kick Distance: 11.7321
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 57
+Number of Successful Kicks: 38
+Sum of Total Distance: 388.473
+Previous Kick Distance: 2.31812
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 58
+Number of Successful Kicks: 39
+Sum of Total Distance: 402.212
+Previous Kick Distance: 13.7387
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 59
+Number of Successful Kicks: 40
+Sum of Total Distance: 412.386
+Previous Kick Distance: 10.1743
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 60
+Number of Successful Kicks: 41
+Sum of Total Distance: 422.56
+Previous Kick Distance: 10.1743
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 61
+Number of Successful Kicks: 41
+Sum of Total Distance: 423.421
+Previous Kick Distance: 0.860869
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 62
+Number of Successful Kicks: 42
+Sum of Total Distance: 438.214
+Previous Kick Distance: 14.793
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 63
+Number of Successful Kicks: 42
+Sum of Total Distance: 438.214
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 64
+Number of Successful Kicks: 43
+Sum of Total Distance: 452.386
+Previous Kick Distance: 14.1716
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 65
+Number of Successful Kicks: 43
+Sum of Total Distance: 452.386
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 66
+Number of Successful Kicks: 44
+Sum of Total Distance: 464.211
+Previous Kick Distance: 11.825
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 67
+Number of Successful Kicks: 45
+Sum of Total Distance: 476.036
+Previous Kick Distance: 11.825
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 68
+Number of Successful Kicks: 45
+Sum of Total Distance: 476.454
+Previous Kick Distance: 0.418836
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 69
+Number of Successful Kicks: 45
+Sum of Total Distance: 476.732
+Previous Kick Distance: 0.2778
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 70
+Number of Successful Kicks: 45
+Sum of Total Distance: 476.732
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 71
+Number of Successful Kicks: 46
+Sum of Total Distance: 488.228
+Previous Kick Distance: 11.4959
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 72
+Number of Successful Kicks: 47
+Sum of Total Distance: 500.411
+Previous Kick Distance: 12.1828
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 73
+Number of Successful Kicks: 47
+Sum of Total Distance: 501.673
+Previous Kick Distance: 1.26167
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 74
+Number of Successful Kicks: 47
+Sum of Total Distance: 501.68
+Previous Kick Distance: 0.00695524
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 75
+Number of Successful Kicks: 48
+Sum of Total Distance: 512.442
+Previous Kick Distance: 10.7629
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 76
+Number of Successful Kicks: 49
+Sum of Total Distance: 514.722
+Previous Kick Distance: 2.27977
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 77
+Number of Successful Kicks: 49
+Sum of Total Distance: 515.071
+Previous Kick Distance: 0.348549
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 78
+Number of Successful Kicks: 50
+Sum of Total Distance: 523.047
+Previous Kick Distance: 7.97616
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 79
+Number of Successful Kicks: 50
+Sum of Total Distance: 524.779
+Previous Kick Distance: 1.732
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 80
+Number of Successful Kicks: 51
+Sum of Total Distance: 535.958
+Previous Kick Distance: 11.1793
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 81
+Number of Successful Kicks: 52
+Sum of Total Distance: 548.806
+Previous Kick Distance: 12.8478
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 82
+Number of Successful Kicks: 53
+Sum of Total Distance: 559.183
+Previous Kick Distance: 10.3774
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 83
+Number of Successful Kicks: 54
+Sum of Total Distance: 569.561
+Previous Kick Distance: 10.3774
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 84
+Number of Successful Kicks: 55
+Sum of Total Distance: 584.118
+Previous Kick Distance: 14.5576
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 85
+Number of Successful Kicks: 56
+Sum of Total Distance: 591.522
+Previous Kick Distance: 7.40348
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 86
+Number of Successful Kicks: 57
+Sum of Total Distance: 600.822
+Previous Kick Distance: 9.30041
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 87
+Number of Successful Kicks: 58
+Sum of Total Distance: 614.291
+Previous Kick Distance: 13.4693
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 88
+Number of Successful Kicks: 59
+Sum of Total Distance: 624.653
+Previous Kick Distance: 10.3614
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 89
+Number of Successful Kicks: 60
+Sum of Total Distance: 635.014
+Previous Kick Distance: 10.3614
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 90
+Number of Successful Kicks: 61
+Sum of Total Distance: 645.029
+Previous Kick Distance: 10.0149
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 91
+Number of Successful Kicks: 62
+Sum of Total Distance: 655.044
+Previous Kick Distance: 10.0149
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 92
+Number of Successful Kicks: 62
+Sum of Total Distance: 655.261
+Previous Kick Distance: 0.216463
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 93
+Number of Successful Kicks: 63
+Sum of Total Distance: 666.245
+Previous Kick Distance: 10.9846
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 94
+Number of Successful Kicks: 64
+Sum of Total Distance: 677.428
+Previous Kick Distance: 11.1832
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 95
+Number of Successful Kicks: 65
+Sum of Total Distance: 687.617
+Previous Kick Distance: 10.1888
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 96
+Number of Successful Kicks: 66
+Sum of Total Distance: 697.806
+Previous Kick Distance: 10.1888
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 97
+Number of Successful Kicks: 66
+Sum of Total Distance: 699.684
+Previous Kick Distance: 1.87829
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 98
+Number of Successful Kicks: 66
+Sum of Total Distance: 699.684
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 99
+Number of Successful Kicks: 67
+Sum of Total Distance: 708.171
+Previous Kick Distance: 8.48649
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 100
+Number of Successful Kicks: 67
+Sum of Total Distance: 708.171
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 101
+Number of Successful Kicks: 68
+Sum of Total Distance: 718.461
+Previous Kick Distance: 10.2897
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 102
+Number of Successful Kicks: 69
+Sum of Total Distance: 727.099
+Previous Kick Distance: 8.63854
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 103
+Number of Successful Kicks: 70
+Sum of Total Distance: 735.738
+Previous Kick Distance: 8.63854
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 104
+Number of Successful Kicks: 70
+Sum of Total Distance: 735.738
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 105
+Number of Successful Kicks: 71
+Sum of Total Distance: 745.906
+Previous Kick Distance: 10.1678
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 106
+Number of Successful Kicks: 72
+Sum of Total Distance: 756.073
+Previous Kick Distance: 10.1678
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 107
+Number of Successful Kicks: 73
+Sum of Total Distance: 766.383
+Previous Kick Distance: 10.3095
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 108
+Number of Successful Kicks: 74
+Sum of Total Distance: 776.692
+Previous Kick Distance: 10.3095
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 109
+Number of Successful Kicks: 75
+Sum of Total Distance: 786.724
+Previous Kick Distance: 10.0312
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 110
+Number of Successful Kicks: 76
+Sum of Total Distance: 788.732
+Previous Kick Distance: 2.00868
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 111
+Number of Successful Kicks: 77
+Sum of Total Distance: 800.747
+Previous Kick Distance: 12.0153
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 112
+Number of Successful Kicks: 78
+Sum of Total Distance: 810.889
+Previous Kick Distance: 10.1419
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 113
+Number of Successful Kicks: 79
+Sum of Total Distance: 821.031
+Previous Kick Distance: 10.1419
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 114
+Number of Successful Kicks: 80
+Sum of Total Distance: 831.238
+Previous Kick Distance: 10.207
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 115
+Number of Successful Kicks: 81
+Sum of Total Distance: 841.445
+Previous Kick Distance: 10.207
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 116
+Number of Successful Kicks: 81
+Sum of Total Distance: 841.685
+Previous Kick Distance: 0.239445
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 117
+Number of Successful Kicks: 82
+Sum of Total Distance: 850.514
+Previous Kick Distance: 8.82974
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 118
+Number of Successful Kicks: 83
+Sum of Total Distance: 859.578
+Previous Kick Distance: 9.0635
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 119
+Number of Successful Kicks: 84
+Sum of Total Distance: 861.92
+Previous Kick Distance: 2.34248
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 120
+Number of Successful Kicks: 85
+Sum of Total Distance: 877.39
+Previous Kick Distance: 15.4695
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 121
+Number of Successful Kicks: 86
+Sum of Total Distance: 891.63
+Previous Kick Distance: 14.2397
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 122
+Number of Successful Kicks: 86
+Sum of Total Distance: 891.63
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 123
+Number of Successful Kicks: 87
+Sum of Total Distance: 902.619
+Previous Kick Distance: 10.9891
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 124
+Number of Successful Kicks: 87
+Sum of Total Distance: 903.37
+Previous Kick Distance: 0.751032
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 125
+Number of Successful Kicks: 87
+Sum of Total Distance: 903.461
+Previous Kick Distance: 0.0914436
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 126
+Number of Successful Kicks: 88
+Sum of Total Distance: 915.269
+Previous Kick Distance: 11.8073
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 127
+Number of Successful Kicks: 89
+Sum of Total Distance: 925.393
+Previous Kick Distance: 10.1243
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 128
+Number of Successful Kicks: 90
+Sum of Total Distance: 935.517
+Previous Kick Distance: 10.1243
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 129
+Number of Successful Kicks: 91
+Sum of Total Distance: 945.776
+Previous Kick Distance: 10.2587
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 130
+Number of Successful Kicks: 92
+Sum of Total Distance: 949.083
+Previous Kick Distance: 3.3075
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 131
+Number of Successful Kicks: 93
+Sum of Total Distance: 962.62
+Previous Kick Distance: 13.5366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 132
+Number of Successful Kicks: 94
+Sum of Total Distance: 971.286
+Previous Kick Distance: 8.66643
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 133
+Number of Successful Kicks: 95
+Sum of Total Distance: 975.442
+Previous Kick Distance: 4.15561
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 134
+Number of Successful Kicks: 95
+Sum of Total Distance: 977.204
+Previous Kick Distance: 1.76166
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 135
+Number of Successful Kicks: 96
+Sum of Total Distance: 990.741
+Previous Kick Distance: 13.5376
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 136
+Number of Successful Kicks: 97
+Sum of Total Distance: 1004.28
+Previous Kick Distance: 13.5376
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 137
+Number of Successful Kicks: 97
+Sum of Total Distance: 1004.51
+Previous Kick Distance: 0.234212
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 138
+Number of Successful Kicks: 97
+Sum of Total Distance: 1004.52
+Previous Kick Distance: 0.00321925
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 139
+Number of Successful Kicks: 98
+Sum of Total Distance: 1017.95
+Previous Kick Distance: 13.4304
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 140
+Number of Successful Kicks: 98
+Sum of Total Distance: 1017.95
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 141
+Number of Successful Kicks: 99
+Sum of Total Distance: 1027.9
+Previous Kick Distance: 9.95489
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 142
+Number of Successful Kicks: 100
+Sum of Total Distance: 1037.86
+Previous Kick Distance: 9.95489
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 143
+Number of Successful Kicks: 100
+Sum of Total Distance: 1038.1
+Previous Kick Distance: 0.245282
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 144
+Number of Successful Kicks: 101
+Sum of Total Distance: 1046.87
+Previous Kick Distance: 8.7655
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 145
+Number of Successful Kicks: 102
+Sum of Total Distance: 1055.88
+Previous Kick Distance: 9.00896
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 146
+Number of Successful Kicks: 103
+Sum of Total Distance: 1066.33
+Previous Kick Distance: 10.458
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 147
+Number of Successful Kicks: 103
+Sum of Total Distance: 1066.57
+Previous Kick Distance: 0.233202
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 148
+Number of Successful Kicks: 104
+Sum of Total Distance: 1077.23
+Previous Kick Distance: 10.6651
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 149
+Number of Successful Kicks: 105
+Sum of Total Distance: 1086.98
+Previous Kick Distance: 9.74574
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 150
+Number of Successful Kicks: 106
+Sum of Total Distance: 1096.72
+Previous Kick Distance: 9.74574
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 151
+Number of Successful Kicks: 107
+Sum of Total Distance: 1107.07
+Previous Kick Distance: 10.3458
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 152
+Number of Successful Kicks: 107
+Sum of Total Distance: 1107.07
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 153
+Number of Successful Kicks: 108
+Sum of Total Distance: 1117.42
+Previous Kick Distance: 10.3458
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 154
+Number of Successful Kicks: 109
+Sum of Total Distance: 1127.76
+Previous Kick Distance: 10.3474
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 155
+Number of Successful Kicks: 110
+Sum of Total Distance: 1138.11
+Previous Kick Distance: 10.3474
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 156
+Number of Successful Kicks: 110
+Sum of Total Distance: 1138.11
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 157
+Number of Successful Kicks: 111
+Sum of Total Distance: 1148.9
+Previous Kick Distance: 10.7862
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 158
+Number of Successful Kicks: 111
+Sum of Total Distance: 1148.9
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 159
+Number of Successful Kicks: 112
+Sum of Total Distance: 1151.02
+Previous Kick Distance: 2.12475
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 160
+Number of Successful Kicks: 113
+Sum of Total Distance: 1159.94
+Previous Kick Distance: 8.91497
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 161
+Number of Successful Kicks: 113
+Sum of Total Distance: 1159.94
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 162
+Number of Successful Kicks: 114
+Sum of Total Distance: 1168.69
+Previous Kick Distance: 8.75582
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 163
+Number of Successful Kicks: 115
+Sum of Total Distance: 1170.73
+Previous Kick Distance: 2.03937
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 164
+Number of Successful Kicks: 116
+Sum of Total Distance: 1181.52
+Previous Kick Distance: 10.7912
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 165
+Number of Successful Kicks: 116
+Sum of Total Distance: 1182.17
+Previous Kick Distance: 0.650089
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 166
+Number of Successful Kicks: 117
+Sum of Total Distance: 1194.48
+Previous Kick Distance: 12.3048
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 167
+Number of Successful Kicks: 117
+Sum of Total Distance: 1195.68
+Previous Kick Distance: 1.19856
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 168
+Number of Successful Kicks: 118
+Sum of Total Distance: 1206.46
+Previous Kick Distance: 10.781
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 169
+Number of Successful Kicks: 119
+Sum of Total Distance: 1217.59
+Previous Kick Distance: 11.1318
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 170
+Number of Successful Kicks: 120
+Sum of Total Distance: 1228.72
+Previous Kick Distance: 11.1318
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 171
+Number of Successful Kicks: 121
+Sum of Total Distance: 1238.57
+Previous Kick Distance: 9.8507
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 172
+Number of Successful Kicks: 122
+Sum of Total Distance: 1248.42
+Previous Kick Distance: 9.8507
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 173
+Number of Successful Kicks: 123
+Sum of Total Distance: 1259.31
+Previous Kick Distance: 10.8847
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 174
+Number of Successful Kicks: 124
+Sum of Total Distance: 1270.19
+Previous Kick Distance: 10.8847
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 175
+Number of Successful Kicks: 125
+Sum of Total Distance: 1280.25
+Previous Kick Distance: 10.0606
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 176
+Number of Successful Kicks: 126
+Sum of Total Distance: 1290.31
+Previous Kick Distance: 10.0606
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 177
+Number of Successful Kicks: 126
+Sum of Total Distance: 1290.31
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 178
+Number of Successful Kicks: 126
+Sum of Total Distance: 1290.31
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 179
+Number of Successful Kicks: 127
+Sum of Total Distance: 1300.73
+Previous Kick Distance: 10.4165
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 180
+Number of Successful Kicks: 128
+Sum of Total Distance: 1311.15
+Previous Kick Distance: 10.4165
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 181
+Number of Successful Kicks: 129
+Sum of Total Distance: 1313.27
+Previous Kick Distance: 2.12654
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 182
+Number of Successful Kicks: 130
+Sum of Total Distance: 1325.67
+Previous Kick Distance: 12.393
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 183
+Number of Successful Kicks: 131
+Sum of Total Distance: 1336.29
+Previous Kick Distance: 10.6262
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 184
+Number of Successful Kicks: 132
+Sum of Total Distance: 1346.33
+Previous Kick Distance: 10.0351
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 185
+Number of Successful Kicks: 133
+Sum of Total Distance: 1356.36
+Previous Kick Distance: 10.0351
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 186
+Number of Successful Kicks: 133
+Sum of Total Distance: 1356.36
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 187
+Number of Successful Kicks: 134
+Sum of Total Distance: 1365.06
+Previous Kick Distance: 8.69851
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 188
+Number of Successful Kicks: 135
+Sum of Total Distance: 1373.76
+Previous Kick Distance: 8.6975
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 189
+Number of Successful Kicks: 135
+Sum of Total Distance: 1374.04
+Previous Kick Distance: 0.279929
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 190
+Number of Successful Kicks: 135
+Sum of Total Distance: 1374.04
+Previous Kick Distance: 0.00670866
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 191
+Number of Successful Kicks: 135
+Sum of Total Distance: 1374.2
+Previous Kick Distance: 0.15735
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 192
+Number of Successful Kicks: 136
+Sum of Total Distance: 1385.94
+Previous Kick Distance: 11.7366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 193
+Number of Successful Kicks: 137
+Sum of Total Distance: 1398.01
+Previous Kick Distance: 12.0753
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 194
+Number of Successful Kicks: 138
+Sum of Total Distance: 1406.5
+Previous Kick Distance: 8.48444
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 195
+Number of Successful Kicks: 139
+Sum of Total Distance: 1414.98
+Previous Kick Distance: 8.48444
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 196
+Number of Successful Kicks: 139
+Sum of Total Distance: 1414.98
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 197
+Number of Successful Kicks: 140
+Sum of Total Distance: 1423.69
+Previous Kick Distance: 8.71035
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 198
+Number of Successful Kicks: 141
+Sum of Total Distance: 1432.4
+Previous Kick Distance: 8.71035
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 199
+Number of Successful Kicks: 141
+Sum of Total Distance: 1432.75
+Previous Kick Distance: 0.344933
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 200
+Number of Successful Kicks: 142
+Sum of Total Distance: 1443.6
+Previous Kick Distance: 10.8487
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 201
+Number of Successful Kicks: 143
+Sum of Total Distance: 1454.78
+Previous Kick Distance: 11.1876
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 202
+Number of Successful Kicks: 143
+Sum of Total Distance: 1454.78
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 203
+Number of Successful Kicks: 144
+Sum of Total Distance: 1464.78
+Previous Kick Distance: 9.99225
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 204
+Number of Successful Kicks: 145
+Sum of Total Distance: 1474.64
+Previous Kick Distance: 9.86089
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 205
+Number of Successful Kicks: 145
+Sum of Total Distance: 1476.47
+Previous Kick Distance: 1.83738
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 206
+Number of Successful Kicks: 146
+Sum of Total Distance: 1485.25
+Previous Kick Distance: 8.77248
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 207
+Number of Successful Kicks: 146
+Sum of Total Distance: 1486.48
+Previous Kick Distance: 1.22988
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 208
+Number of Successful Kicks: 147
+Sum of Total Distance: 1495.36
+Previous Kick Distance: 8.87914
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 209
+Number of Successful Kicks: 147
+Sum of Total Distance: 1495.39
+Previous Kick Distance: 0.0349031
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 210
+Number of Successful Kicks: 147
+Sum of Total Distance: 1495.39
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 211
+Number of Successful Kicks: 148
+Sum of Total Distance: 1507.07
+Previous Kick Distance: 11.6836
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 212
+Number of Successful Kicks: 148
+Sum of Total Distance: 1507.4
+Previous Kick Distance: 0.321302
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 213
+Number of Successful Kicks: 149
+Sum of Total Distance: 1518.82
+Previous Kick Distance: 11.4192
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 214
+Number of Successful Kicks: 150
+Sum of Total Distance: 1521.08
+Previous Kick Distance: 2.26308
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 215
+Number of Successful Kicks: 150
+Sum of Total Distance: 1521.28
+Previous Kick Distance: 0.20156
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 216
+Number of Successful Kicks: 151
+Sum of Total Distance: 1531.65
+Previous Kick Distance: 10.3669
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 217
+Number of Successful Kicks: 152
+Sum of Total Distance: 1535.9
+Previous Kick Distance: 4.25784
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 218
+Number of Successful Kicks: 153
+Sum of Total Distance: 1537.95
+Previous Kick Distance: 2.04187
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 219
+Number of Successful Kicks: 153
+Sum of Total Distance: 1537.95
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 220
+Number of Successful Kicks: 153
+Sum of Total Distance: 1537.95
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 221
+Number of Successful Kicks: 154
+Sum of Total Distance: 1552.16
+Previous Kick Distance: 14.2097
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 222
+Number of Successful Kicks: 155
+Sum of Total Distance: 1563.95
+Previous Kick Distance: 11.7893
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 223
+Number of Successful Kicks: 156
+Sum of Total Distance: 1575.74
+Previous Kick Distance: 11.7893
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 224
+Number of Successful Kicks: 156
+Sum of Total Distance: 1575.95
+Previous Kick Distance: 0.215856
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 225
+Number of Successful Kicks: 157
+Sum of Total Distance: 1578.06
+Previous Kick Distance: 2.10597
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 226
+Number of Successful Kicks: 157
+Sum of Total Distance: 1578.06
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 227
+Number of Successful Kicks: 158
+Sum of Total Distance: 1589.61
+Previous Kick Distance: 11.5534
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 228
+Number of Successful Kicks: 158
+Sum of Total Distance: 1589.61
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 229
+Number of Successful Kicks: 159
+Sum of Total Distance: 1599.44
+Previous Kick Distance: 9.82967
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 230
+Number of Successful Kicks: 160
+Sum of Total Distance: 1609.17
+Previous Kick Distance: 9.73324
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 231
+Number of Successful Kicks: 161
+Sum of Total Distance: 1618.91
+Previous Kick Distance: 9.73324
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 232
+Number of Successful Kicks: 162
+Sum of Total Distance: 1629
+Previous Kick Distance: 10.0928
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 233
+Number of Successful Kicks: 163
+Sum of Total Distance: 1639.09
+Previous Kick Distance: 10.0928
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 234
+Number of Successful Kicks: 164
+Sum of Total Distance: 1649.32
+Previous Kick Distance: 10.2276
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 235
+Number of Successful Kicks: 165
+Sum of Total Distance: 1659.55
+Previous Kick Distance: 10.2276
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 236
+Number of Successful Kicks: 165
+Sum of Total Distance: 1659.55
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 237
+Number of Successful Kicks: 166
+Sum of Total Distance: 1670.72
+Previous Kick Distance: 11.1731
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 238
+Number of Successful Kicks: 167
+Sum of Total Distance: 1681.89
+Previous Kick Distance: 11.1717
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 239
+Number of Successful Kicks: 167
+Sum of Total Distance: 1681.96
+Previous Kick Distance: 0.0694354
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 240
+Number of Successful Kicks: 168
+Sum of Total Distance: 1692.15
+Previous Kick Distance: 10.1875
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 241
+Number of Successful Kicks: 169
+Sum of Total Distance: 1695.64
+Previous Kick Distance: 3.49431
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 242
+Number of Successful Kicks: 170
+Sum of Total Distance: 1702.71
+Previous Kick Distance: 7.06431
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 243
+Number of Successful Kicks: 170
+Sum of Total Distance: 1702.71
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 244
+Number of Successful Kicks: 171
+Sum of Total Distance: 1712.4
+Previous Kick Distance: 9.68843
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 245
+Number of Successful Kicks: 172
+Sum of Total Distance: 1722.08
+Previous Kick Distance: 9.68843
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 246
+Number of Successful Kicks: 173
+Sum of Total Distance: 1732.53
+Previous Kick Distance: 10.4498
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 247
+Number of Successful Kicks: 174
+Sum of Total Distance: 1742.98
+Previous Kick Distance: 10.4498
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 248
+Number of Successful Kicks: 175
+Sum of Total Distance: 1752.99
+Previous Kick Distance: 10.0056
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 249
+Number of Successful Kicks: 176
+Sum of Total Distance: 1762.94
+Previous Kick Distance: 9.94813
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 250
+Number of Successful Kicks: 176
+Sum of Total Distance: 1763.31
+Previous Kick Distance: 0.370987
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 251
+Number of Successful Kicks: 177
+Sum of Total Distance: 1777.41
+Previous Kick Distance: 14.0974
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 252
+Number of Successful Kicks: 178
+Sum of Total Distance: 1791.21
+Previous Kick Distance: 13.804
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 253
+Number of Successful Kicks: 179
+Sum of Total Distance: 1800.87
+Previous Kick Distance: 9.65867
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 254
+Number of Successful Kicks: 180
+Sum of Total Distance: 1804.88
+Previous Kick Distance: 4.01354
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 255
+Number of Successful Kicks: 180
+Sum of Total Distance: 1805.06
+Previous Kick Distance: 0.180993
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 256
+Number of Successful Kicks: 181
+Sum of Total Distance: 1818.63
+Previous Kick Distance: 13.5715
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 257
+Number of Successful Kicks: 182
+Sum of Total Distance: 1829.08
+Previous Kick Distance: 10.4477
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 258
+Number of Successful Kicks: 183
+Sum of Total Distance: 1839.53
+Previous Kick Distance: 10.4477
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 259
+Number of Successful Kicks: 184
+Sum of Total Distance: 1848.24
+Previous Kick Distance: 8.71205
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 260
+Number of Successful Kicks: 185
+Sum of Total Distance: 1856.95
+Previous Kick Distance: 8.71205
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 261
+Number of Successful Kicks: 185
+Sum of Total Distance: 1857.79
+Previous Kick Distance: 0.833612
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 262
+Number of Successful Kicks: 186
+Sum of Total Distance: 1869.64
+Previous Kick Distance: 11.8542
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 263
+Number of Successful Kicks: 187
+Sum of Total Distance: 1880.77
+Previous Kick Distance: 11.1327
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 264
+Number of Successful Kicks: 188
+Sum of Total Distance: 1883.81
+Previous Kick Distance: 3.03086
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 265
+Number of Successful Kicks: 189
+Sum of Total Distance: 1894.25
+Previous Kick Distance: 10.4462
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 266
+Number of Successful Kicks: 190
+Sum of Total Distance: 1896.97
+Previous Kick Distance: 2.71669
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 267
+Number of Successful Kicks: 190
+Sum of Total Distance: 1896.97
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 268
+Number of Successful Kicks: 191
+Sum of Total Distance: 1901.13
+Previous Kick Distance: 4.15886
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 269
+Number of Successful Kicks: 192
+Sum of Total Distance: 1907.86
+Previous Kick Distance: 6.73677
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 270
+Number of Successful Kicks: 192
+Sum of Total Distance: 1907.86
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 271
+Number of Successful Kicks: 193
+Sum of Total Distance: 1914.6
+Previous Kick Distance: 6.73677
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 272
+Number of Successful Kicks: 194
+Sum of Total Distance: 1928.14
+Previous Kick Distance: 13.5366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 273
+Number of Successful Kicks: 195
+Sum of Total Distance: 1931.03
+Previous Kick Distance: 2.88895
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 274
+Number of Successful Kicks: 196
+Sum of Total Distance: 1943.31
+Previous Kick Distance: 12.2875
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 275
+Number of Successful Kicks: 197
+Sum of Total Distance: 1952.74
+Previous Kick Distance: 9.42293
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 276
+Number of Successful Kicks: 198
+Sum of Total Distance: 1963.35
+Previous Kick Distance: 10.6128
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 277
+Number of Successful Kicks: 199
+Sum of Total Distance: 1973.96
+Previous Kick Distance: 10.6128
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 278
+Number of Successful Kicks: 200
+Sum of Total Distance: 1984.7
+Previous Kick Distance: 10.7418
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 279
+Number of Successful Kicks: 201
+Sum of Total Distance: 1995.45
+Previous Kick Distance: 10.7418
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 280
+Number of Successful Kicks: 202
+Sum of Total Distance: 2005.28
+Previous Kick Distance: 9.82873
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 281
+Number of Successful Kicks: 202
+Sum of Total Distance: 2006.41
+Previous Kick Distance: 1.13365
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 282
+Number of Successful Kicks: 203
+Sum of Total Distance: 2015.15
+Previous Kick Distance: 8.73984
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 283
+Number of Successful Kicks: 204
+Sum of Total Distance: 2024.73
+Previous Kick Distance: 9.57855
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 284
+Number of Successful Kicks: 205
+Sum of Total Distance: 2034.31
+Previous Kick Distance: 9.57855
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 285
+Number of Successful Kicks: 206
+Sum of Total Distance: 2044.56
+Previous Kick Distance: 10.25
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 286
+Number of Successful Kicks: 207
+Sum of Total Distance: 2054.81
+Previous Kick Distance: 10.25
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 287
+Number of Successful Kicks: 208
+Sum of Total Distance: 2064.91
+Previous Kick Distance: 10.1073
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 288
+Number of Successful Kicks: 208
+Sum of Total Distance: 2064.91
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 289
+Number of Successful Kicks: 208
+Sum of Total Distance: 2065.05
+Previous Kick Distance: 0.139271
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 290
+Number of Successful Kicks: 209
+Sum of Total Distance: 2075.3
+Previous Kick Distance: 10.2463
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 291
+Number of Successful Kicks: 210
+Sum of Total Distance: 2083.94
+Previous Kick Distance: 8.64165
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 292
+Number of Successful Kicks: 211
+Sum of Total Distance: 2092.58
+Previous Kick Distance: 8.64165
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 293
+Number of Successful Kicks: 212
+Sum of Total Distance: 2102.98
+Previous Kick Distance: 10.3973
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 294
+Number of Successful Kicks: 213
+Sum of Total Distance: 2113.38
+Previous Kick Distance: 10.3973
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 295
+Number of Successful Kicks: 214
+Sum of Total Distance: 2115.59
+Previous Kick Distance: 2.21306
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 296
+Number of Successful Kicks: 215
+Sum of Total Distance: 2127.02
+Previous Kick Distance: 11.4314
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 297
+Number of Successful Kicks: 216
+Sum of Total Distance: 2137.05
+Previous Kick Distance: 10.0325
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 298
+Number of Successful Kicks: 217
+Sum of Total Distance: 2149.41
+Previous Kick Distance: 12.3586
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 299
+Number of Successful Kicks: 218
+Sum of Total Distance: 2161.75
+Previous Kick Distance: 12.3365
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 300
+Number of Successful Kicks: 219
+Sum of Total Distance: 2163.92
+Previous Kick Distance: 2.16924
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 301
+Number of Successful Kicks: 220
+Sum of Total Distance: 2174.44
+Previous Kick Distance: 10.5216
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 302
+Number of Successful Kicks: 221
+Sum of Total Distance: 2186.99
+Previous Kick Distance: 12.5505
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 303
+Number of Successful Kicks: 222
+Sum of Total Distance: 2189.26
+Previous Kick Distance: 2.27481
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 304
+Number of Successful Kicks: 223
+Sum of Total Distance: 2199.49
+Previous Kick Distance: 10.2239
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 305
+Number of Successful Kicks: 223
+Sum of Total Distance: 2199.94
+Previous Kick Distance: 0.453689
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 306
+Number of Successful Kicks: 223
+Sum of Total Distance: 2199.94
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 307
+Number of Successful Kicks: 223
+Sum of Total Distance: 2199.94
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 308
+Number of Successful Kicks: 224
+Sum of Total Distance: 2201.98
+Previous Kick Distance: 2.0337
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 309
+Number of Successful Kicks: 225
+Sum of Total Distance: 2216.85
+Previous Kick Distance: 14.8709
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 310
+Number of Successful Kicks: 226
+Sum of Total Distance: 2226.45
+Previous Kick Distance: 9.5995
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 311
+Number of Successful Kicks: 227
+Sum of Total Distance: 2236.05
+Previous Kick Distance: 9.5995
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 312
+Number of Successful Kicks: 227
+Sum of Total Distance: 2236.05
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 313
+Number of Successful Kicks: 228
+Sum of Total Distance: 2246.73
+Previous Kick Distance: 10.685
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 314
+Number of Successful Kicks: 229
+Sum of Total Distance: 2257.42
+Previous Kick Distance: 10.685
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 315
+Number of Successful Kicks: 230
+Sum of Total Distance: 2267.71
+Previous Kick Distance: 10.2941
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 316
+Number of Successful Kicks: 231
+Sum of Total Distance: 2278
+Previous Kick Distance: 10.2941
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 317
+Number of Successful Kicks: 232
+Sum of Total Distance: 2280.34
+Previous Kick Distance: 2.3378
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 318
+Number of Successful Kicks: 233
+Sum of Total Distance: 2287.93
+Previous Kick Distance: 7.58927
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 319
+Number of Successful Kicks: 234
+Sum of Total Distance: 2297.77
+Previous Kick Distance: 9.83823
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 320
+Number of Successful Kicks: 235
+Sum of Total Distance: 2311.17
+Previous Kick Distance: 13.3999
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 321
+Number of Successful Kicks: 236
+Sum of Total Distance: 2313.2
+Previous Kick Distance: 2.02663
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 322
+Number of Successful Kicks: 237
+Sum of Total Distance: 2325.3
+Previous Kick Distance: 12.1045
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 323
+Number of Successful Kicks: 238
+Sum of Total Distance: 2339.2
+Previous Kick Distance: 13.8994
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 324
+Number of Successful Kicks: 239
+Sum of Total Distance: 2349.73
+Previous Kick Distance: 10.5305
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 325
+Number of Successful Kicks: 239
+Sum of Total Distance: 2350.04
+Previous Kick Distance: 0.309151
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 326
+Number of Successful Kicks: 240
+Sum of Total Distance: 2360.87
+Previous Kick Distance: 10.8258
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 327
+Number of Successful Kicks: 241
+Sum of Total Distance: 2362.89
+Previous Kick Distance: 2.02649
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 328
+Number of Successful Kicks: 241
+Sum of Total Distance: 2363.13
+Previous Kick Distance: 0.236284
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 329
+Number of Successful Kicks: 242
+Sum of Total Distance: 2372.03
+Previous Kick Distance: 8.90648
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 330
+Number of Successful Kicks: 243
+Sum of Total Distance: 2380.03
+Previous Kick Distance: 7.99082
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 331
+Number of Successful Kicks: 244
+Sum of Total Distance: 2390.03
+Previous Kick Distance: 10.0003
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 332
+Number of Successful Kicks: 244
+Sum of Total Distance: 2390.33
+Previous Kick Distance: 0.300115
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 333
+Number of Successful Kicks: 245
+Sum of Total Distance: 2392.69
+Previous Kick Distance: 2.36366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 334
+Number of Successful Kicks: 245
+Sum of Total Distance: 2392.69
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 335
+Number of Successful Kicks: 246
+Sum of Total Distance: 2396.03
+Previous Kick Distance: 3.33776
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 336
+Number of Successful Kicks: 247
+Sum of Total Distance: 2409.56
+Previous Kick Distance: 13.5366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 337
+Number of Successful Kicks: 248
+Sum of Total Distance: 2424.52
+Previous Kick Distance: 14.9592
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 338
+Number of Successful Kicks: 248
+Sum of Total Distance: 2426.19
+Previous Kick Distance: 1.67141
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 339
+Number of Successful Kicks: 249
+Sum of Total Distance: 2439.73
+Previous Kick Distance: 13.5366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 340
+Number of Successful Kicks: 250
+Sum of Total Distance: 2441.74
+Previous Kick Distance: 2.01284
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 341
+Number of Successful Kicks: 250
+Sum of Total Distance: 2441.74
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 342
+Number of Successful Kicks: 251
+Sum of Total Distance: 2447.24
+Previous Kick Distance: 5.49703
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 343
+Number of Successful Kicks: 252
+Sum of Total Distance: 2454.6
+Previous Kick Distance: 7.35721
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 344
+Number of Successful Kicks: 252
+Sum of Total Distance: 2454.6
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 345
+Number of Successful Kicks: 252
+Sum of Total Distance: 2454.6
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 346
+Number of Successful Kicks: 253
+Sum of Total Distance: 2466.08
+Previous Kick Distance: 11.4778
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 347
+Number of Successful Kicks: 254
+Sum of Total Distance: 2468.23
+Previous Kick Distance: 2.15356
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 348
+Number of Successful Kicks: 254
+Sum of Total Distance: 2468.23
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 349
+Number of Successful Kicks: 255
+Sum of Total Distance: 2481.8
+Previous Kick Distance: 13.5668
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 350
+Number of Successful Kicks: 255
+Sum of Total Distance: 2483.74
+Previous Kick Distance: 1.94115
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 351
+Number of Successful Kicks: 256
+Sum of Total Distance: 2495.74
+Previous Kick Distance: 12.0028
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 352
+Number of Successful Kicks: 257
+Sum of Total Distance: 2509.28
+Previous Kick Distance: 13.5366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 353
+Number of Successful Kicks: 258
+Sum of Total Distance: 2518.09
+Previous Kick Distance: 8.81102
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 354
+Number of Successful Kicks: 259
+Sum of Total Distance: 2521.13
+Previous Kick Distance: 3.03902
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 355
+Number of Successful Kicks: 260
+Sum of Total Distance: 2532.9
+Previous Kick Distance: 11.7687
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 356
+Number of Successful Kicks: 260
+Sum of Total Distance: 2532.9
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 357
+Number of Successful Kicks: 260
+Sum of Total Distance: 2532.9
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 358
+Number of Successful Kicks: 260
+Sum of Total Distance: 2532.9
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 359
+Number of Successful Kicks: 261
+Sum of Total Distance: 2544.85
+Previous Kick Distance: 11.9546
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 360
+Number of Successful Kicks: 262
+Sum of Total Distance: 2547.81
+Previous Kick Distance: 2.95812
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 361
+Number of Successful Kicks: 262
+Sum of Total Distance: 2547.81
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 362
+Number of Successful Kicks: 263
+Sum of Total Distance: 2562.71
+Previous Kick Distance: 14.905
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 363
+Number of Successful Kicks: 263
+Sum of Total Distance: 2563.02
+Previous Kick Distance: 0.303574
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 364
+Number of Successful Kicks: 263
+Sum of Total Distance: 2563.46
+Previous Kick Distance: 0.442994
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 365
+Number of Successful Kicks: 264
+Sum of Total Distance: 2576.84
+Previous Kick Distance: 13.3833
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 366
+Number of Successful Kicks: 265
+Sum of Total Distance: 2590.38
+Previous Kick Distance: 13.5366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 367
+Number of Successful Kicks: 266
+Sum of Total Distance: 2602.23
+Previous Kick Distance: 11.8508
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 368
+Number of Successful Kicks: 267
+Sum of Total Distance: 2605.55
+Previous Kick Distance: 3.31438
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 369
+Number of Successful Kicks: 268
+Sum of Total Distance: 2620.2
+Previous Kick Distance: 14.6572
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 370
+Number of Successful Kicks: 268
+Sum of Total Distance: 2620.2
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 371
+Number of Successful Kicks: 269
+Sum of Total Distance: 2634.99
+Previous Kick Distance: 14.7895
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 372
+Number of Successful Kicks: 270
+Sum of Total Distance: 2649.67
+Previous Kick Distance: 14.6821
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 373
+Number of Successful Kicks: 271
+Sum of Total Distance: 2664.46
+Previous Kick Distance: 14.7813
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 374
+Number of Successful Kicks: 271
+Sum of Total Distance: 2664.46
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 375
+Number of Successful Kicks: 272
+Sum of Total Distance: 2669.25
+Previous Kick Distance: 4.79217
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 376
+Number of Successful Kicks: 273
+Sum of Total Distance: 2672.29
+Previous Kick Distance: 3.04353
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 377
+Number of Successful Kicks: 273
+Sum of Total Distance: 2672.29
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 378
+Number of Successful Kicks: 274
+Sum of Total Distance: 2686.3
+Previous Kick Distance: 14.0057
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 379
+Number of Successful Kicks: 274
+Sum of Total Distance: 2686.3
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 380
+Number of Successful Kicks: 274
+Sum of Total Distance: 2686.3
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 381
+Number of Successful Kicks: 274
+Sum of Total Distance: 2686.64
+Previous Kick Distance: 0.344861
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 382
+Number of Successful Kicks: 275
+Sum of Total Distance: 2698.57
+Previous Kick Distance: 11.9282
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 383
+Number of Successful Kicks: 275
+Sum of Total Distance: 2698.57
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 384
+Number of Successful Kicks: 276
+Sum of Total Distance: 2701.76
+Previous Kick Distance: 3.18815
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 385
+Number of Successful Kicks: 276
+Sum of Total Distance: 2702.69
+Previous Kick Distance: 0.929353
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 386
+Number of Successful Kicks: 277
+Sum of Total Distance: 2716.46
+Previous Kick Distance: 13.7737
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 387
+Number of Successful Kicks: 278
+Sum of Total Distance: 2726.02
+Previous Kick Distance: 9.56308
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 388
+Number of Successful Kicks: 279
+Sum of Total Distance: 2735.59
+Previous Kick Distance: 9.56308
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 389
+Number of Successful Kicks: 280
+Sum of Total Distance: 2737.61
+Previous Kick Distance: 2.02169
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 390
+Number of Successful Kicks: 281
+Sum of Total Distance: 2747.67
+Previous Kick Distance: 10.0566
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 391
+Number of Successful Kicks: 281
+Sum of Total Distance: 2747.67
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 392
+Number of Successful Kicks: 282
+Sum of Total Distance: 2759.7
+Previous Kick Distance: 12.0335
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 393
+Number of Successful Kicks: 283
+Sum of Total Distance: 2763.03
+Previous Kick Distance: 3.33358
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 394
+Number of Successful Kicks: 283
+Sum of Total Distance: 2763.03
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 395
+Number of Successful Kicks: 284
+Sum of Total Distance: 2770.82
+Previous Kick Distance: 7.79136
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 396
+Number of Successful Kicks: 285
+Sum of Total Distance: 2781.72
+Previous Kick Distance: 10.8942
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 397
+Number of Successful Kicks: 285
+Sum of Total Distance: 2781.72
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 398
+Number of Successful Kicks: 286
+Sum of Total Distance: 2793.48
+Previous Kick Distance: 11.7648
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 399
+Number of Successful Kicks: 286
+Sum of Total Distance: 2793.48
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 400
+Number of Successful Kicks: 286
+Sum of Total Distance: 2793.48
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 401
+Number of Successful Kicks: 286
+Sum of Total Distance: 2793.48
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 402
+Number of Successful Kicks: 287
+Sum of Total Distance: 2796.74
+Previous Kick Distance: 3.25462
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 403
+Number of Successful Kicks: 288
+Sum of Total Distance: 2801.34
+Previous Kick Distance: 4.60403
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 404
+Number of Successful Kicks: 289
+Sum of Total Distance: 2804.38
+Previous Kick Distance: 3.04297
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 405
+Number of Successful Kicks: 289
+Sum of Total Distance: 2804.93
+Previous Kick Distance: 0.541532
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 406
+Number of Successful Kicks: 289
+Sum of Total Distance: 2804.96
+Previous Kick Distance: 0.0294262
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 407
+Number of Successful Kicks: 290
+Sum of Total Distance: 2819.56
+Previous Kick Distance: 14.6017
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 408
+Number of Successful Kicks: 291
+Sum of Total Distance: 2821.77
+Previous Kick Distance: 2.20886
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 409
+Number of Successful Kicks: 292
+Sum of Total Distance: 2830.45
+Previous Kick Distance: 8.68393
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 410
+Number of Successful Kicks: 293
+Sum of Total Distance: 2832.53
+Previous Kick Distance: 2.07574
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 411
+Number of Successful Kicks: 294
+Sum of Total Distance: 2844.28
+Previous Kick Distance: 11.7521
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 412
+Number of Successful Kicks: 294
+Sum of Total Distance: 2844.28
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 413
+Number of Successful Kicks: 295
+Sum of Total Distance: 2846.28
+Previous Kick Distance: 2.00673
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 414
+Number of Successful Kicks: 296
+Sum of Total Distance: 2855.67
+Previous Kick Distance: 9.38498
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 415
+Number of Successful Kicks: 297
+Sum of Total Distance: 2863.37
+Previous Kick Distance: 7.6998
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 416
+Number of Successful Kicks: 297
+Sum of Total Distance: 2863.37
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 417
+Number of Successful Kicks: 298
+Sum of Total Distance: 2865.41
+Previous Kick Distance: 2.0437
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 418
+Number of Successful Kicks: 298
+Sum of Total Distance: 2865.41
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 419
+Number of Successful Kicks: 299
+Sum of Total Distance: 2875.24
+Previous Kick Distance: 9.82628
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 420
+Number of Successful Kicks: 300
+Sum of Total Distance: 2887.11
+Previous Kick Distance: 11.8692
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 421
+Number of Successful Kicks: 301
+Sum of Total Distance: 2889.58
+Previous Kick Distance: 2.47137
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 422
+Number of Successful Kicks: 302
+Sum of Total Distance: 2891.66
+Previous Kick Distance: 2.08001
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 423
+Number of Successful Kicks: 303
+Sum of Total Distance: 2901.07
+Previous Kick Distance: 9.4118
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 424
+Number of Successful Kicks: 303
+Sum of Total Distance: 2901.34
+Previous Kick Distance: 0.273217
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 425
+Number of Successful Kicks: 303
+Sum of Total Distance: 2901.34
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 426
+Number of Successful Kicks: 304
+Sum of Total Distance: 2915.22
+Previous Kick Distance: 13.8778
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 427
+Number of Successful Kicks: 305
+Sum of Total Distance: 2918.57
+Previous Kick Distance: 3.34726
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 428
+Number of Successful Kicks: 305
+Sum of Total Distance: 2918.71
+Previous Kick Distance: 0.13633
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 429
+Number of Successful Kicks: 306
+Sum of Total Distance: 2922
+Previous Kick Distance: 3.29592
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 430
+Number of Successful Kicks: 306
+Sum of Total Distance: 2922
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 431
+Number of Successful Kicks: 307
+Sum of Total Distance: 2928.51
+Previous Kick Distance: 6.51275
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 432
+Number of Successful Kicks: 307
+Sum of Total Distance: 2928.51
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 433
+Number of Successful Kicks: 307
+Sum of Total Distance: 2928.65
+Previous Kick Distance: 0.132447
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 434
+Number of Successful Kicks: 307
+Sum of Total Distance: 2929.05
+Previous Kick Distance: 0.407644
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 435
+Number of Successful Kicks: 307
+Sum of Total Distance: 2929.05
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 436
+Number of Successful Kicks: 308
+Sum of Total Distance: 2936.61
+Previous Kick Distance: 7.55517
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 437
+Number of Successful Kicks: 309
+Sum of Total Distance: 2944.69
+Previous Kick Distance: 8.07664
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 438
+Number of Successful Kicks: 310
+Sum of Total Distance: 2955.46
+Previous Kick Distance: 10.7766
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 439
+Number of Successful Kicks: 311
+Sum of Total Distance: 2966.24
+Previous Kick Distance: 10.7766
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 440
+Number of Successful Kicks: 312
+Sum of Total Distance: 2975.68
+Previous Kick Distance: 9.43642
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 441
+Number of Successful Kicks: 312
+Sum of Total Distance: 2976.06
+Previous Kick Distance: 0.385714
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 442
+Number of Successful Kicks: 313
+Sum of Total Distance: 2985.87
+Previous Kick Distance: 9.80442
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 443
+Number of Successful Kicks: 314
+Sum of Total Distance: 2988.45
+Previous Kick Distance: 2.58315
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 444
+Number of Successful Kicks: 314
+Sum of Total Distance: 2988.84
+Previous Kick Distance: 0.385636
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 445
+Number of Successful Kicks: 315
+Sum of Total Distance: 2999.34
+Previous Kick Distance: 10.501
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 446
+Number of Successful Kicks: 315
+Sum of Total Distance: 3000.73
+Previous Kick Distance: 1.39821
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 447
+Number of Successful Kicks: 316
+Sum of Total Distance: 3014.27
+Previous Kick Distance: 13.5366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 448
+Number of Successful Kicks: 316
+Sum of Total Distance: 3014.28
+Previous Kick Distance: 0.0126262
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 449
+Number of Successful Kicks: 316
+Sum of Total Distance: 3014.75
+Previous Kick Distance: 0.468305
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 450
+Number of Successful Kicks: 316
+Sum of Total Distance: 3014.75
+Previous Kick Distance: 0.00175156
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 451
+Number of Successful Kicks: 316
+Sum of Total Distance: 3014.75
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 452
+Number of Successful Kicks: 317
+Sum of Total Distance: 3024.5
+Previous Kick Distance: 9.74323
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 453
+Number of Successful Kicks: 318
+Sum of Total Distance: 3034.71
+Previous Kick Distance: 10.2105
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 454
+Number of Successful Kicks: 319
+Sum of Total Distance: 3036.82
+Previous Kick Distance: 2.11364
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 455
+Number of Successful Kicks: 320
+Sum of Total Distance: 3038.91
+Previous Kick Distance: 2.08459
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 456
+Number of Successful Kicks: 321
+Sum of Total Distance: 3046.81
+Previous Kick Distance: 7.90723
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 457
+Number of Successful Kicks: 321
+Sum of Total Distance: 3046.84
+Previous Kick Distance: 0.0301051
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 458
+Number of Successful Kicks: 322
+Sum of Total Distance: 3058.61
+Previous Kick Distance: 11.7636
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 459
+Number of Successful Kicks: 323
+Sum of Total Distance: 3067.14
+Previous Kick Distance: 8.53241
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 460
+Number of Successful Kicks: 324
+Sum of Total Distance: 3074.27
+Previous Kick Distance: 7.12628
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 461
+Number of Successful Kicks: 324
+Sum of Total Distance: 3074.4
+Previous Kick Distance: 0.139655
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 462
+Number of Successful Kicks: 324
+Sum of Total Distance: 3075.1
+Previous Kick Distance: 0.693551
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 463
+Number of Successful Kicks: 324
+Sum of Total Distance: 3075.1
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 464
+Number of Successful Kicks: 324
+Sum of Total Distance: 3075.3
+Previous Kick Distance: 0.201092
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 465
+Number of Successful Kicks: 325
+Sum of Total Distance: 3083.54
+Previous Kick Distance: 8.23871
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 466
+Number of Successful Kicks: 325
+Sum of Total Distance: 3083.54
+Previous Kick Distance: 0.00529083
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 467
+Number of Successful Kicks: 326
+Sum of Total Distance: 3086.08
+Previous Kick Distance: 2.53564
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 468
+Number of Successful Kicks: 326
+Sum of Total Distance: 3086.09
+Previous Kick Distance: 0.0110028
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 469
+Number of Successful Kicks: 326
+Sum of Total Distance: 3086.69
+Previous Kick Distance: 0.60233
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 470
+Number of Successful Kicks: 327
+Sum of Total Distance: 3089.73
+Previous Kick Distance: 3.03797
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 471
+Number of Successful Kicks: 327
+Sum of Total Distance: 3089.73
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 472
+Number of Successful Kicks: 328
+Sum of Total Distance: 3104.02
+Previous Kick Distance: 14.2907
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 473
+Number of Successful Kicks: 329
+Sum of Total Distance: 3113.39
+Previous Kick Distance: 9.36908
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 474
+Number of Successful Kicks: 330
+Sum of Total Distance: 3122.76
+Previous Kick Distance: 9.36908
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 475
+Number of Successful Kicks: 330
+Sum of Total Distance: 3124.31
+Previous Kick Distance: 1.5503
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 476
+Number of Successful Kicks: 331
+Sum of Total Distance: 3134.74
+Previous Kick Distance: 10.4311
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 477
+Number of Successful Kicks: 332
+Sum of Total Distance: 3138.01
+Previous Kick Distance: 3.27002
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 478
+Number of Successful Kicks: 333
+Sum of Total Distance: 3151.95
+Previous Kick Distance: 13.9439
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 479
+Number of Successful Kicks: 333
+Sum of Total Distance: 3152.39
+Previous Kick Distance: 0.437375
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 480
+Number of Successful Kicks: 334
+Sum of Total Distance: 3162.4
+Previous Kick Distance: 10.0062
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 481
+Number of Successful Kicks: 334
+Sum of Total Distance: 3162.71
+Previous Kick Distance: 0.307716
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 482
+Number of Successful Kicks: 335
+Sum of Total Distance: 3165.97
+Previous Kick Distance: 3.26089
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 483
+Number of Successful Kicks: 336
+Sum of Total Distance: 3179.5
+Previous Kick Distance: 13.5366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 484
+Number of Successful Kicks: 337
+Sum of Total Distance: 3182.95
+Previous Kick Distance: 3.44777
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 485
+Number of Successful Kicks: 337
+Sum of Total Distance: 3182.95
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 486
+Number of Successful Kicks: 338
+Sum of Total Distance: 3193.16
+Previous Kick Distance: 10.2067
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 487
+Number of Successful Kicks: 338
+Sum of Total Distance: 3193.16
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 488
+Number of Successful Kicks: 339
+Sum of Total Distance: 3197.67
+Previous Kick Distance: 4.50787
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 489
+Number of Successful Kicks: 340
+Sum of Total Distance: 3211.2
+Previous Kick Distance: 13.5366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 490
+Number of Successful Kicks: 341
+Sum of Total Distance: 3214.37
+Previous Kick Distance: 3.16902
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 491
+Number of Successful Kicks: 341
+Sum of Total Distance: 3214.37
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 492
+Number of Successful Kicks: 342
+Sum of Total Distance: 3225.47
+Previous Kick Distance: 11.0977
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 493
+Number of Successful Kicks: 343
+Sum of Total Distance: 3239.65
+Previous Kick Distance: 14.1775
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 494
+Number of Successful Kicks: 344
+Sum of Total Distance: 3243.11
+Previous Kick Distance: 3.45963
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 495
+Number of Successful Kicks: 344
+Sum of Total Distance: 3243.11
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 496
+Number of Successful Kicks: 344
+Sum of Total Distance: 3243.11
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 497
+Number of Successful Kicks: 344
+Sum of Total Distance: 3243.11
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 498
+Number of Successful Kicks: 344
+Sum of Total Distance: 3243.11
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 499
+Number of Successful Kicks: 344
+Sum of Total Distance: 3243.73
+Previous Kick Distance: 0.627608
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 500
+Number of Successful Kicks: 344
+Sum of Total Distance: 3244.24
+Previous Kick Distance: 0.504369
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 501
+Number of Successful Kicks: 345
+Sum of Total Distance: 3246.41
+Previous Kick Distance: 2.17065
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 502
+Number of Successful Kicks: 345
+Sum of Total Distance: 3246.41
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 503
+Number of Successful Kicks: 346
+Sum of Total Distance: 3254.79
+Previous Kick Distance: 8.38185
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 504
+Number of Successful Kicks: 346
+Sum of Total Distance: 3254.79
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 505
+Number of Successful Kicks: 346
+Sum of Total Distance: 3254.79
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 506
+Number of Successful Kicks: 347
+Sum of Total Distance: 3258.2
+Previous Kick Distance: 3.41345
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 507
+Number of Successful Kicks: 347
+Sum of Total Distance: 3258.2
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 508
+Number of Successful Kicks: 348
+Sum of Total Distance: 3261.61
+Previous Kick Distance: 3.4021
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 509
+Number of Successful Kicks: 348
+Sum of Total Distance: 3261.61
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 510
+Number of Successful Kicks: 349
+Sum of Total Distance: 3276.09
+Previous Kick Distance: 14.4791
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 511
+Number of Successful Kicks: 349
+Sum of Total Distance: 3276.18
+Previous Kick Distance: 0.0980745
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 512
+Number of Successful Kicks: 350
+Sum of Total Distance: 3288.04
+Previous Kick Distance: 11.8593
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 513
+Number of Successful Kicks: 351
+Sum of Total Distance: 3299.99
+Previous Kick Distance: 11.9504
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 514
+Number of Successful Kicks: 351
+Sum of Total Distance: 3300.37
+Previous Kick Distance: 0.380646
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 515
+Number of Successful Kicks: 351
+Sum of Total Distance: 3300.37
+Previous Kick Distance: 0.000484084
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 516
+Number of Successful Kicks: 351
+Sum of Total Distance: 3300.4
+Previous Kick Distance: 0.0296486
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 517
+Number of Successful Kicks: 352
+Sum of Total Distance: 3302.63
+Previous Kick Distance: 2.23036
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 518
+Number of Successful Kicks: 352
+Sum of Total Distance: 3303.24
+Previous Kick Distance: 0.607134
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 519
+Number of Successful Kicks: 352
+Sum of Total Distance: 3303.45
+Previous Kick Distance: 0.204461
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 520
+Number of Successful Kicks: 352
+Sum of Total Distance: 3303.45
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 521
+Number of Successful Kicks: 353
+Sum of Total Distance: 3312.8
+Previous Kick Distance: 9.35379
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 522
+Number of Successful Kicks: 353
+Sum of Total Distance: 3313.02
+Previous Kick Distance: 0.219006
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 523
+Number of Successful Kicks: 353
+Sum of Total Distance: 3313.02
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 524
+Number of Successful Kicks: 354
+Sum of Total Distance: 3318.23
+Previous Kick Distance: 5.21145
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 525
+Number of Successful Kicks: 355
+Sum of Total Distance: 3324.46
+Previous Kick Distance: 6.23372
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 526
+Number of Successful Kicks: 355
+Sum of Total Distance: 3324.79
+Previous Kick Distance: 0.329478
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 527
+Number of Successful Kicks: 355
+Sum of Total Distance: 3324.79
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 528
+Number of Successful Kicks: 355
+Sum of Total Distance: 3326.77
+Previous Kick Distance: 1.97981
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 529
+Number of Successful Kicks: 355
+Sum of Total Distance: 3326.77
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 530
+Number of Successful Kicks: 356
+Sum of Total Distance: 3331.64
+Previous Kick Distance: 4.86339
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 531
+Number of Successful Kicks: 357
+Sum of Total Distance: 3345.17
+Previous Kick Distance: 13.5366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 532
+Number of Successful Kicks: 358
+Sum of Total Distance: 3348.48
+Previous Kick Distance: 3.3074
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 533
+Number of Successful Kicks: 359
+Sum of Total Distance: 3351.93
+Previous Kick Distance: 3.4478
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 534
+Number of Successful Kicks: 360
+Sum of Total Distance: 3358.68
+Previous Kick Distance: 6.75488
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 535
+Number of Successful Kicks: 360
+Sum of Total Distance: 3358.88
+Previous Kick Distance: 0.197952
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 536
+Number of Successful Kicks: 361
+Sum of Total Distance: 3366.13
+Previous Kick Distance: 7.25148
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 537
+Number of Successful Kicks: 361
+Sum of Total Distance: 3367.34
+Previous Kick Distance: 1.20393
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 538
+Number of Successful Kicks: 361
+Sum of Total Distance: 3367.49
+Previous Kick Distance: 0.154491
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 539
+Number of Successful Kicks: 361
+Sum of Total Distance: 3367.49
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 540
+Number of Successful Kicks: 361
+Sum of Total Distance: 3367.94
+Previous Kick Distance: 0.447556
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 541
+Number of Successful Kicks: 362
+Sum of Total Distance: 3376.39
+Previous Kick Distance: 8.45004
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 542
+Number of Successful Kicks: 363
+Sum of Total Distance: 3390.1
+Previous Kick Distance: 13.7158
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 543
+Number of Successful Kicks: 363
+Sum of Total Distance: 3390.1
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 544
+Number of Successful Kicks: 364
+Sum of Total Distance: 3403.82
+Previous Kick Distance: 13.7158
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 545
+Number of Successful Kicks: 365
+Sum of Total Distance: 3414.42
+Previous Kick Distance: 10.6026
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 546
+Number of Successful Kicks: 366
+Sum of Total Distance: 3417.62
+Previous Kick Distance: 3.19759
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 547
+Number of Successful Kicks: 366
+Sum of Total Distance: 3417.62
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 548
+Number of Successful Kicks: 367
+Sum of Total Distance: 3421.54
+Previous Kick Distance: 3.91505
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 549
+Number of Successful Kicks: 368
+Sum of Total Distance: 3423.9
+Previous Kick Distance: 2.36427
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 550
+Number of Successful Kicks: 369
+Sum of Total Distance: 3426.26
+Previous Kick Distance: 2.36427
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 551
+Number of Successful Kicks: 370
+Sum of Total Distance: 3429.64
+Previous Kick Distance: 3.37085
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 552
+Number of Successful Kicks: 371
+Sum of Total Distance: 3444.02
+Previous Kick Distance: 14.3825
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 553
+Number of Successful Kicks: 371
+Sum of Total Distance: 3444.4
+Previous Kick Distance: 0.382773
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 554
+Number of Successful Kicks: 372
+Sum of Total Distance: 3447.55
+Previous Kick Distance: 3.1491
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 555
+Number of Successful Kicks: 373
+Sum of Total Distance: 3451.11
+Previous Kick Distance: 3.56509
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 556
+Number of Successful Kicks: 374
+Sum of Total Distance: 3457.96
+Previous Kick Distance: 6.84554
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 557
+Number of Successful Kicks: 375
+Sum of Total Distance: 3465.17
+Previous Kick Distance: 7.21323
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 558
+Number of Successful Kicks: 376
+Sum of Total Distance: 3468.33
+Previous Kick Distance: 3.15414
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 559
+Number of Successful Kicks: 376
+Sum of Total Distance: 3468.33
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 560
+Number of Successful Kicks: 377
+Sum of Total Distance: 3473.12
+Previous Kick Distance: 4.79394
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 561
+Number of Successful Kicks: 377
+Sum of Total Distance: 3473.51
+Previous Kick Distance: 0.390947
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 562
+Number of Successful Kicks: 378
+Sum of Total Distance: 3487.15
+Previous Kick Distance: 13.6373
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 563
+Number of Successful Kicks: 379
+Sum of Total Distance: 3497.24
+Previous Kick Distance: 10.0929
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 564
+Number of Successful Kicks: 380
+Sum of Total Distance: 3507.34
+Previous Kick Distance: 10.0929
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 565
+Number of Successful Kicks: 381
+Sum of Total Distance: 3520.4
+Previous Kick Distance: 13.0674
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 566
+Number of Successful Kicks: 381
+Sum of Total Distance: 3520.4
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 567
+Number of Successful Kicks: 382
+Sum of Total Distance: 3533.47
+Previous Kick Distance: 13.0674
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 568
+Number of Successful Kicks: 383
+Sum of Total Distance: 3536.8
+Previous Kick Distance: 3.32897
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 569
+Number of Successful Kicks: 383
+Sum of Total Distance: 3536.8
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 570
+Number of Successful Kicks: 384
+Sum of Total Distance: 3540.42
+Previous Kick Distance: 3.62037
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 571
+Number of Successful Kicks: 385
+Sum of Total Distance: 3547.73
+Previous Kick Distance: 7.31413
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 572
+Number of Successful Kicks: 385
+Sum of Total Distance: 3547.73
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 573
+Number of Successful Kicks: 385
+Sum of Total Distance: 3548.69
+Previous Kick Distance: 0.953323
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 574
+Number of Successful Kicks: 386
+Sum of Total Distance: 3551.72
+Previous Kick Distance: 3.02826
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 575
+Number of Successful Kicks: 386
+Sum of Total Distance: 3551.87
+Previous Kick Distance: 0.150606
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 576
+Number of Successful Kicks: 386
+Sum of Total Distance: 3553.25
+Previous Kick Distance: 1.38571
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 577
+Number of Successful Kicks: 387
+Sum of Total Distance: 3567.51
+Previous Kick Distance: 14.2594
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 578
+Number of Successful Kicks: 387
+Sum of Total Distance: 3567.51
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 579
+Number of Successful Kicks: 387
+Sum of Total Distance: 3567.51
+Previous Kick Distance: 0.00246551
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 580
+Number of Successful Kicks: 387
+Sum of Total Distance: 3567.65
+Previous Kick Distance: 0.137667
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 581
+Number of Successful Kicks: 387
+Sum of Total Distance: 3567.65
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 582
+Number of Successful Kicks: 388
+Sum of Total Distance: 3569.99
+Previous Kick Distance: 2.33741
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 583
+Number of Successful Kicks: 388
+Sum of Total Distance: 3570.69
+Previous Kick Distance: 0.701965
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 584
+Number of Successful Kicks: 389
+Sum of Total Distance: 3574.04
+Previous Kick Distance: 3.35147
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 585
+Number of Successful Kicks: 390
+Sum of Total Distance: 3576.25
+Previous Kick Distance: 2.20306
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 586
+Number of Successful Kicks: 390
+Sum of Total Distance: 3576.25
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 587
+Number of Successful Kicks: 390
+Sum of Total Distance: 3576.45
+Previous Kick Distance: 0.209358
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 588
+Number of Successful Kicks: 391
+Sum of Total Distance: 3580
+Previous Kick Distance: 3.54316
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 589
+Number of Successful Kicks: 391
+Sum of Total Distance: 3580
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 590
+Number of Successful Kicks: 392
+Sum of Total Distance: 3592.41
+Previous Kick Distance: 12.4127
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 591
+Number of Successful Kicks: 393
+Sum of Total Distance: 3602.9
+Previous Kick Distance: 10.4937
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 592
+Number of Successful Kicks: 394
+Sum of Total Distance: 3606.16
+Previous Kick Distance: 3.25167
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 593
+Number of Successful Kicks: 394
+Sum of Total Distance: 3606.42
+Previous Kick Distance: 0.263177
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 594
+Number of Successful Kicks: 394
+Sum of Total Distance: 3606.67
+Previous Kick Distance: 0.253914
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 595
+Number of Successful Kicks: 395
+Sum of Total Distance: 3620.3
+Previous Kick Distance: 13.624
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 596
+Number of Successful Kicks: 396
+Sum of Total Distance: 3631.79
+Previous Kick Distance: 11.4947
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 597
+Number of Successful Kicks: 397
+Sum of Total Distance: 3633.92
+Previous Kick Distance: 2.13165
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 598
+Number of Successful Kicks: 397
+Sum of Total Distance: 3634.71
+Previous Kick Distance: 0.787202
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 599
+Number of Successful Kicks: 398
+Sum of Total Distance: 3636.81
+Previous Kick Distance: 2.09983
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 600
+Number of Successful Kicks: 399
+Sum of Total Distance: 3651.43
+Previous Kick Distance: 14.6206
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 601
+Number of Successful Kicks: 400
+Sum of Total Distance: 3654.69
+Previous Kick Distance: 3.2631
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 602
+Number of Successful Kicks: 400
+Sum of Total Distance: 3654.69
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 603
+Number of Successful Kicks: 401
+Sum of Total Distance: 3656.86
+Previous Kick Distance: 2.16443
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 604
+Number of Successful Kicks: 401
+Sum of Total Distance: 3656.86
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 605
+Number of Successful Kicks: 402
+Sum of Total Distance: 3662.29
+Previous Kick Distance: 5.42751
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 606
+Number of Successful Kicks: 402
+Sum of Total Distance: 3664.16
+Previous Kick Distance: 1.87516
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 607
+Number of Successful Kicks: 402
+Sum of Total Distance: 3664.16
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 608
+Number of Successful Kicks: 402
+Sum of Total Distance: 3664.16
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 609
+Number of Successful Kicks: 403
+Sum of Total Distance: 3667.54
+Previous Kick Distance: 3.38026
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 610
+Number of Successful Kicks: 403
+Sum of Total Distance: 3667.54
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 611
+Number of Successful Kicks: 404
+Sum of Total Distance: 3669.72
+Previous Kick Distance: 2.17758
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 612
+Number of Successful Kicks: 405
+Sum of Total Distance: 3677.38
+Previous Kick Distance: 7.65818
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 613
+Number of Successful Kicks: 406
+Sum of Total Distance: 3690.91
+Previous Kick Distance: 13.5366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 614
+Number of Successful Kicks: 407
+Sum of Total Distance: 3703.5
+Previous Kick Distance: 12.5848
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 615
+Number of Successful Kicks: 408
+Sum of Total Distance: 3716.08
+Previous Kick Distance: 12.5848
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 616
+Number of Successful Kicks: 409
+Sum of Total Distance: 3729.62
+Previous Kick Distance: 13.5366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 617
+Number of Successful Kicks: 410
+Sum of Total Distance: 3743.16
+Previous Kick Distance: 13.5366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 618
+Number of Successful Kicks: 411
+Sum of Total Distance: 3745.21
+Previous Kick Distance: 2.0541
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 619
+Number of Successful Kicks: 411
+Sum of Total Distance: 3745.21
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 620
+Number of Successful Kicks: 411
+Sum of Total Distance: 3747.19
+Previous Kick Distance: 1.98065
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 621
+Number of Successful Kicks: 412
+Sum of Total Distance: 3751.23
+Previous Kick Distance: 4.03388
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 622
+Number of Successful Kicks: 413
+Sum of Total Distance: 3762.16
+Previous Kick Distance: 10.9372
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 623
+Number of Successful Kicks: 414
+Sum of Total Distance: 3765.43
+Previous Kick Distance: 3.27127
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 624
+Number of Successful Kicks: 414
+Sum of Total Distance: 3765.43
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 625
+Number of Successful Kicks: 415
+Sum of Total Distance: 3769.73
+Previous Kick Distance: 4.29556
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 626
+Number of Successful Kicks: 416
+Sum of Total Distance: 3783.27
+Previous Kick Distance: 13.5366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 627
+Number of Successful Kicks: 416
+Sum of Total Distance: 3783.27
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 628
+Number of Successful Kicks: 417
+Sum of Total Distance: 3785.65
+Previous Kick Distance: 2.37971
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 629
+Number of Successful Kicks: 418
+Sum of Total Distance: 3789.09
+Previous Kick Distance: 3.44945
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 630
+Number of Successful Kicks: 419
+Sum of Total Distance: 3792.51
+Previous Kick Distance: 3.41802
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 631
+Number of Successful Kicks: 419
+Sum of Total Distance: 3792.51
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 632
+Number of Successful Kicks: 420
+Sum of Total Distance: 3796.05
+Previous Kick Distance: 3.53696
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 633
+Number of Successful Kicks: 421
+Sum of Total Distance: 3798.22
+Previous Kick Distance: 2.17216
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 634
+Number of Successful Kicks: 422
+Sum of Total Distance: 3812.57
+Previous Kick Distance: 14.3455
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 635
+Number of Successful Kicks: 423
+Sum of Total Distance: 3821.84
+Previous Kick Distance: 9.2712
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 636
+Number of Successful Kicks: 423
+Sum of Total Distance: 3822.24
+Previous Kick Distance: 0.3996
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 637
+Number of Successful Kicks: 424
+Sum of Total Distance: 3824.35
+Previous Kick Distance: 2.10818
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 638
+Number of Successful Kicks: 425
+Sum of Total Distance: 3835.89
+Previous Kick Distance: 11.5397
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 639
+Number of Successful Kicks: 426
+Sum of Total Distance: 3845.47
+Previous Kick Distance: 9.58421
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 640
+Number of Successful Kicks: 426
+Sum of Total Distance: 3845.47
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 641
+Number of Successful Kicks: 427
+Sum of Total Distance: 3851.58
+Previous Kick Distance: 6.11375
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 642
+Number of Successful Kicks: 427
+Sum of Total Distance: 3851.58
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 643
+Number of Successful Kicks: 427
+Sum of Total Distance: 3851.58
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 644
+Number of Successful Kicks: 427
+Sum of Total Distance: 3851.58
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 645
+Number of Successful Kicks: 428
+Sum of Total Distance: 3865.1
+Previous Kick Distance: 13.5138
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 646
+Number of Successful Kicks: 429
+Sum of Total Distance: 3879.53
+Previous Kick Distance: 14.4365
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 647
+Number of Successful Kicks: 430
+Sum of Total Distance: 3894.08
+Previous Kick Distance: 14.5472
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 648
+Number of Successful Kicks: 431
+Sum of Total Distance: 3902.4
+Previous Kick Distance: 8.31522
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 649
+Number of Successful Kicks: 431
+Sum of Total Distance: 3902.71
+Previous Kick Distance: 0.310036
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 650
+Number of Successful Kicks: 431
+Sum of Total Distance: 3902.71
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 651
+Number of Successful Kicks: 431
+Sum of Total Distance: 3902.82
+Previous Kick Distance: 0.111596
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 652
+Number of Successful Kicks: 431
+Sum of Total Distance: 3904.55
+Previous Kick Distance: 1.72676
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 653
+Number of Successful Kicks: 432
+Sum of Total Distance: 3914.52
+Previous Kick Distance: 9.97111
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 654
+Number of Successful Kicks: 433
+Sum of Total Distance: 3924.56
+Previous Kick Distance: 10.0453
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 655
+Number of Successful Kicks: 434
+Sum of Total Distance: 3926.95
+Previous Kick Distance: 2.39096
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 656
+Number of Successful Kicks: 435
+Sum of Total Distance: 3939.26
+Previous Kick Distance: 12.3107
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 657
+Number of Successful Kicks: 436
+Sum of Total Distance: 3949.02
+Previous Kick Distance: 9.75529
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 658
+Number of Successful Kicks: 436
+Sum of Total Distance: 3949.02
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 659
+Number of Successful Kicks: 437
+Sum of Total Distance: 3951.71
+Previous Kick Distance: 2.68874
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 660
+Number of Successful Kicks: 438
+Sum of Total Distance: 3963.94
+Previous Kick Distance: 12.2332
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 661
+Number of Successful Kicks: 439
+Sum of Total Distance: 3973.72
+Previous Kick Distance: 9.7799
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 662
+Number of Successful Kicks: 440
+Sum of Total Distance: 3983.5
+Previous Kick Distance: 9.7799
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 663
+Number of Successful Kicks: 440
+Sum of Total Distance: 3984.33
+Previous Kick Distance: 0.829599
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 664
+Number of Successful Kicks: 440
+Sum of Total Distance: 3984.6
+Previous Kick Distance: 0.273284
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 665
+Number of Successful Kicks: 440
+Sum of Total Distance: 3985.37
+Previous Kick Distance: 0.767095
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 666
+Number of Successful Kicks: 440
+Sum of Total Distance: 3985.47
+Previous Kick Distance: 0.104451
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 667
+Number of Successful Kicks: 441
+Sum of Total Distance: 3995.71
+Previous Kick Distance: 10.2389
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 668
+Number of Successful Kicks: 441
+Sum of Total Distance: 3995.95
+Previous Kick Distance: 0.232915
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 669
+Number of Successful Kicks: 441
+Sum of Total Distance: 3996.2
+Previous Kick Distance: 0.254541
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 670
+Number of Successful Kicks: 442
+Sum of Total Distance: 4008.12
+Previous Kick Distance: 11.9166
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 671
+Number of Successful Kicks: 443
+Sum of Total Distance: 4017.96
+Previous Kick Distance: 9.83863
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 672
+Number of Successful Kicks: 444
+Sum of Total Distance: 4021.93
+Previous Kick Distance: 3.97407
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 673
+Number of Successful Kicks: 444
+Sum of Total Distance: 4022.16
+Previous Kick Distance: 0.228092
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 674
+Number of Successful Kicks: 444
+Sum of Total Distance: 4022.68
+Previous Kick Distance: 0.521348
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 675
+Number of Successful Kicks: 444
+Sum of Total Distance: 4023.05
+Previous Kick Distance: 0.373234
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 676
+Number of Successful Kicks: 445
+Sum of Total Distance: 4037.2
+Previous Kick Distance: 14.1499
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 677
+Number of Successful Kicks: 446
+Sum of Total Distance: 4046.4
+Previous Kick Distance: 9.19953
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 678
+Number of Successful Kicks: 446
+Sum of Total Distance: 4046.4
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 679
+Number of Successful Kicks: 447
+Sum of Total Distance: 4050.92
+Previous Kick Distance: 4.51255
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 680
+Number of Successful Kicks: 448
+Sum of Total Distance: 4064.45
+Previous Kick Distance: 13.5366
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 681
+Number of Successful Kicks: 448
+Sum of Total Distance: 4064.79
+Previous Kick Distance: 0.342555
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 682
+Number of Successful Kicks: 449
+Sum of Total Distance: 4073.42
+Previous Kick Distance: 8.62899
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 683
+Number of Successful Kicks: 449
+Sum of Total Distance: 4073.59
+Previous Kick Distance: 0.166065
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 684
+Number of Successful Kicks: 450
+Sum of Total Distance: 4078.64
+Previous Kick Distance: 5.05343
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 685
+Number of Successful Kicks: 450
+Sum of Total Distance: 4079.75
+Previous Kick Distance: 1.11016
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 686
+Number of Successful Kicks: 451
+Sum of Total Distance: 4094.2
+Previous Kick Distance: 14.4436
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 687
+Number of Successful Kicks: 451
+Sum of Total Distance: 4094.2
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 688
+Number of Successful Kicks: 452
+Sum of Total Distance: 4103.9
+Previous Kick Distance: 9.69906
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 689
+Number of Successful Kicks: 453
+Sum of Total Distance: 4106.36
+Previous Kick Distance: 2.46405
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 690
+Number of Successful Kicks: 453
+Sum of Total Distance: 4106.58
+Previous Kick Distance: 0.21727
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 691
+Number of Successful Kicks: 454
+Sum of Total Distance: 4118.85
+Previous Kick Distance: 12.2771
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 692
+Number of Successful Kicks: 455
+Sum of Total Distance: 4130.72
+Previous Kick Distance: 11.8641
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 693
+Number of Successful Kicks: 455
+Sum of Total Distance: 4131.14
+Previous Kick Distance: 0.420797
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 694
+Number of Successful Kicks: 455
+Sum of Total Distance: 4131.46
+Previous Kick Distance: 0.319401
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 695
+Number of Successful Kicks: 456
+Sum of Total Distance: 4144.01
+Previous Kick Distance: 12.5508
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 696
+Number of Successful Kicks: 457
+Sum of Total Distance: 4152.3
+Previous Kick Distance: 8.28644
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 697
+Number of Successful Kicks: 458
+Sum of Total Distance: 4154.37
+Previous Kick Distance: 2.07342
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 698
+Number of Successful Kicks: 458
+Sum of Total Distance: 4154.37
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 699
+Number of Successful Kicks: 458
+Sum of Total Distance: 4156.36
+Previous Kick Distance: 1.98913
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 700
+Number of Successful Kicks: 458
+Sum of Total Distance: 4156.36
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 701
+Number of Successful Kicks: 458
+Sum of Total Distance: 4156.36
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 702
+Number of Successful Kicks: 459
+Sum of Total Distance: 4158.99
+Previous Kick Distance: 2.63666
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 703
+Number of Successful Kicks: 460
+Sum of Total Distance: 4173.74
+Previous Kick Distance: 14.7424
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 704
+Number of Successful Kicks: 460
+Sum of Total Distance: 4174.08
+Previous Kick Distance: 0.33823
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 705
+Number of Successful Kicks: 461
+Sum of Total Distance: 4181.29
+Previous Kick Distance: 7.21737
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 706
+Number of Successful Kicks: 461
+Sum of Total Distance: 4181.29
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 707
+Number of Successful Kicks: 461
+Sum of Total Distance: 4181.44
+Previous Kick Distance: 0.145295
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 708
+Number of Successful Kicks: 462
+Sum of Total Distance: 4189.04
+Previous Kick Distance: 7.60104
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 709
+Number of Successful Kicks: 462
+Sum of Total Distance: 4189.04
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 710
+Number of Successful Kicks: 462
+Sum of Total Distance: 4189.04
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 711
+Number of Successful Kicks: 462
+Sum of Total Distance: 4189.04
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 712
+Number of Successful Kicks: 463
+Sum of Total Distance: 4192.46
+Previous Kick Distance: 3.41698
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 713
+Number of Successful Kicks: 463
+Sum of Total Distance: 4192.46
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 714
+Number of Successful Kicks: 463
+Sum of Total Distance: 4192.57
+Previous Kick Distance: 0.112318
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 715
+Number of Successful Kicks: 464
+Sum of Total Distance: 4202.43
+Previous Kick Distance: 9.85986
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 716
+Number of Successful Kicks: 464
+Sum of Total Distance: 4202.6
+Previous Kick Distance: 0.169131
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 717
+Number of Successful Kicks: 464
+Sum of Total Distance: 4202.78
+Previous Kick Distance: 0.184148
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 718
+Number of Successful Kicks: 465
+Sum of Total Distance: 4216.17
+Previous Kick Distance: 13.3885
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 719
+Number of Successful Kicks: 466
+Sum of Total Distance: 4227.98
+Previous Kick Distance: 11.807
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 720
+Number of Successful Kicks: 466
+Sum of Total Distance: 4227.98
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 721
+Number of Successful Kicks: 467
+Sum of Total Distance: 4231.52
+Previous Kick Distance: 3.54734
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 722
+Number of Successful Kicks: 468
+Sum of Total Distance: 4244.91
+Previous Kick Distance: 13.3849
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 723
+Number of Successful Kicks: 468
+Sum of Total Distance: 4244.91
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 724
+Number of Successful Kicks: 468
+Sum of Total Distance: 4244.91
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 725
+Number of Successful Kicks: 468
+Sum of Total Distance: 4244.91
+Previous Kick Distance: 0
+
+----------------KICK DETAILS -----------------------
+Number of Kick Attempts: 726
+Number of Successful Kicks: 468
+Sum of Total Distance: 4245.53
+Previous Kick Distance: 0.622745
+
+Total of Goals: 178
+Std Attempted: 5.160576
+Mean Attempted: 5.8478389
+--------------------------
+Std Successful: 3.821273
+Mean Successful: 8.921929
